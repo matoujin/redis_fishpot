@@ -2,6 +2,7 @@ import json
 import time
 import os
 import datetime
+import re
 import twisted.python.logfile
 from configparser import SafeConfigParser
 
